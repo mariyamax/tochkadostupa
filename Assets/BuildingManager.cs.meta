@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5396717c056ab3c45a32fe5a62309261
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mousePosition: {fileID: 7956695088653143804, guid: 389386d9373ab7046a593e60fd268bc0, type: 3}
+  - wall: {fileID: 9158582406546400887, guid: 1467ec4eeca2a6f44b334c640a1c3a66, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
